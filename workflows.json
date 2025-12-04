@@ -1,0 +1,13 @@
+{
+    "study_setup": {
+      "name": "study_setup",
+      "actions": [
+        {"type": "open_website", "value": "https://drive.google.com"},
+        {"type": "open_folder", "value": "C:\\Users\\%USERNAME%\\Documents\\MBA_PDFs"},
+        {"type": "open_app", "value": "code"}, 
+        {"type": "start_timer", "value": 45}
+      ],
+      "created_at": "2025-12-03T00:00:00"
+    }
+  }
+  

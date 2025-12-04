@@ -1,0 +1,7 @@
+vosk==0.3.52       # offline STT
+pyttsx3==2.90     # TTS
+psutil==5.9.5
+keyboard==0.13.5
+watchdog==3.0.0
+tinydb==4.7.0
+webbrowser   # stdlib, pip won't be used but keep for clarity
